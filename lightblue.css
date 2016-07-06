@@ -2,6 +2,9 @@
     background-color: aqua;
 
 }
-main{
-
+ul ::first-letter{
+    font-size: 5000%;
+    color: #1200ff;
+    margin: auto;
+    
 }
